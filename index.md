@@ -1,23 +1,22 @@
 # Navigation
 
 - [About Me](#about-me)
-- [Who Am I](#who-am-i)
 - [Programming Philosophy](#programming-philosophy)
+- [Task List](#task-list)
+- [External Links](#external-links)
+- [Check Out This Image](#check-out-this-cool-image)
 
 ## About me
 
-This is my **User Page**! I'm excited to share my journey as a programmer and a lifelong learner.
+I'm Vijay Sinha. I love solving problems and constantly learning about new technologies. 
+This is my **User Page**!
 
 - One of my hobbies is going to the gym and doing HIIT workouts.  
   People often ask:  
   > Why do you workout?  
-  I workout because it energizes me and keeps me focused.
+  - I workout because it energizes me and keeps me focused.
 
 ---
-
-## Who Am I
-
-I'm Vijay Sinha. I love solving problems and constantly learning about new technologies. 
 
 - **Favorite Programming Language:** Java  
   Java has taught me the importance of writing clear and structured code. 
@@ -33,7 +32,7 @@ I'm Vijay Sinha. I love solving problems and constantly learning about new techn
 
 - **Future Learning Goals:**  
   I plan to expand my skills by learning Python because of its interdisciplinary use cases in areas such as:
-  1. Artificial Intelligence
+  1. AI
   2. Data Science
   3. Web Development  
   Python's simplicity and versatility are really amazing because they have so many use cases.
@@ -42,7 +41,7 @@ I'm Vijay Sinha. I love solving problems and constantly learning about new techn
 
 ## Programming Philosophy
 
-I believe that **practical software development** requires both theoretical knowledge and hands-on experience. I believe in:
+**Practical Software Development** requires both theoretical knowledge and hands-on experience. I believe in:
 
 - **Continuous Learning:**  
   Embrace new technologies and never stop learning.
@@ -57,13 +56,13 @@ I believe that **practical software development** requires both theoretical know
 
 ## Task List:
 
+- [x] Finish Lab 1
 - [ ] Learn more about Software Engineering 
-- [ ] Start exploring Python
-- [ ] Build a meaningful project
+- [ ] Build a cool project
 
 ## External Links
 
-For more inf on Markdown, visit:
+For more info on Markdown, visit:
 - [GitHub Flavored Markdown Documentation](https://guides.github.com/features/mastering-markdown/)
 
 ### Check out this cool image:
