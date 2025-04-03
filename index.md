@@ -67,4 +67,4 @@ For more inf on Markdown, visit:
 - [GitHub Flavored Markdown Documentation](https://guides.github.com/features/mastering-markdown/)
 
 ### Check out this cool image:
-- [Code Stock Image](assets/code-stock-image.jpg)
+![Code Stock Image](assets/code-stock-image.jpg)
